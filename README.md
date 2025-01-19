@@ -20,7 +20,7 @@ The Quiz Analysis Project is designed to analyze student performance data from q
 
 1. Clone the repository:
    -bash
-   git clone https://github.com/adityarudra46/quiz-analysis.git
+   git clone https://github.com/adityarudra46/Testline-Ai-Assignment
    cd quiz-analysis
 
 2. Install required packaged:
